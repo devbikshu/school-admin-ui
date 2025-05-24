@@ -1,1 +1,1 @@
-# school-admin-ui
+# school-admin-ui initial commit
